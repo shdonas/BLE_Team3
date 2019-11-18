@@ -17,7 +17,13 @@ import java.util.Map;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
+/*
+    Shakhawat Hossain
+*/
+
 public class MainActivity extends AppCompatActivity implements BluetoothAdapter.LeScanCallback {
+
+
 
     private static final String TAG = "BLE_TEAM3";
 
